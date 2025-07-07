@@ -9,6 +9,12 @@ Watch me tinker with go and fail horribly
 
 ## Run Locally
 
+DB Migration
+
+```bash
+  make migrate
+```
+
 Development
 
 ```bash

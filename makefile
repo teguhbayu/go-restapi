@@ -6,3 +6,6 @@ build:
 
 run:
 	make build && ./dist/go-restapi
+
+migrate:
+	go run ./migration/migrate.go
